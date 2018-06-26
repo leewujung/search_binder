@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 *.md~
+*.yml~
+*.gitignore~
